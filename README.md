@@ -1,9 +1,9 @@
 PyChat
-======
+=======
 A Python P2P chat client and server
-======
--Download both the client and server
+=======
+-Make sure Python 2.7 is installed
 
--Start each in its own command line window
+-Double-click run.bat to start both the client and server
 
--When both people have both windows open, enter the IP in the client application
+-Once both users have opened both windows, enter the IP of the other user in the output window
