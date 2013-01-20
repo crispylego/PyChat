@@ -1,2 +1,2 @@
-(server.py &)
-(client.py &)
+(output.py &)
+(input.py &)

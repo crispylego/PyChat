@@ -1,2 +1,2 @@
-start server.py
-start client.py
+start output.py
+start input.py
